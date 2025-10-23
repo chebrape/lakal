@@ -1,0 +1,11 @@
+{
+  "quick-explorer@@qe-hide-breadcrumbs": false,
+  "minimal-style@@code-comment@@dark": "#FFFFFF",
+  "minimal-style@@minimal-code-scroll": false,
+  "minimal-style@@callouts-style": "callouts-outlined",
+  "minimal-style@@code-size": "17px",
+  "minimal-style@@code-background@@dark": "#2E3440",
+  "minimal-style@@callout-blend-mode": "var(--highlight-mix-blend-mode)",
+  "minimal-style@@h4-variant": "normal",
+  "minimal-style@@h3-l": false
+}

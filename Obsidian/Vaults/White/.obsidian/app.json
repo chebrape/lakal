@@ -1,0 +1,23 @@
+{
+  "readableLineLength": true,
+  "trashOption": "none",
+  "showInlineTitle": false,
+  "newFileLocation": "current",
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "attachmentFolderPath": "0. Attachments",
+  "rightToLeft": false,
+  "tabSize": 4,
+  "showFrontmatter": false,
+  "autoConvertHtml": true,
+  "strictLineBreaks": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 75
+  },
+  "foldIndent": true,
+  "spellcheck": false
+}
